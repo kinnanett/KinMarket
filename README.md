@@ -1,4 +1,4 @@
-# Rada PlaceOne Web3/React Project
+# KinMarket Place Blockchain/Web3/React Project
 
 1. npm install on root folder
 
